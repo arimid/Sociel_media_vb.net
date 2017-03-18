@@ -1,0 +1,46 @@
+   *{
+              margin: 0px;
+              padding: 0px;
+              font-family: MO_Nawel,'Adobe نسخ',Arial;
+              font-size: 40px;
+          }
+body{
+    background-image: url('../img/BG.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+        .sd{
+                text-align: center;
+                background-color: rgba(219, 229, 234, 0.31);
+                border-radius: 15px;
+                height: 210px;
+                width: 500px;
+
+                margin-left: 3em;
+                margin-bottom: 20px;
+                margin-top: 5px;
+          }   
+         h1{
+                font-family: MO_Nawel;
+                font-size: large;
+                color: #14449b;
+                margin-bottom: 32px;
+                float: left;
+                text-align: initial;
+
+
+          } 
+          h2{
+              font-size: 23px;
+              font-family: Arial;
+              color: #dbd6d6;
+              padding-left: 14em;
+          }  
+          p{
+              font-family: MO_Nawel;
+              font-size: 35px;
+              color: #131111;
+              padding-top: 40px; 
+                  
+          }   
